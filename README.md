@@ -5,9 +5,9 @@ be open-source.
 
 
 # Requires:
-  >nuclei
-  >gauplus
-  >urldedupe
+  >nuclei,
+  >gauplus,
+  >urldedupe,
   >Gxss
 
 # Workflow
