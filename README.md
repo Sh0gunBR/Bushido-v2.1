@@ -1,5 +1,6 @@
 # Bushido
 This is my automation bash script...
+I,m newbie in scripting, so i autorize you to modify this script ;)
 
 
 # Requires:
