@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # Rearrange screen
 clear
@@ -11,6 +10,5 @@ domain=$1
 cat urls.txt;
 ./urldedupe -u urls.txt -s;
 ./Gxss -u * $domain
-
 ./nuclei -u $domain -t nuclei-templates/vulnerabilities
 
