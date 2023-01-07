@@ -6,8 +6,7 @@ figlet 'Bushido'
 echo 'By: Sh0gun'
 
 # Workflow
-arquivo=urls.txt
-domain=$arquivo
+domain=$1
 ./gauplus -random-agent $domain -o urls.txt ;
 cat urls.txt;
 ./urldedupe -u urls.txt -s;
