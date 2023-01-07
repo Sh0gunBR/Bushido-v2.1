@@ -1,6 +1,7 @@
 # Bushido
 This is my automation bash script...
-I,m newbie in scripting, so i autorize you to modify this script ;)
+I,m newbie, and this script will
+be open-source.
 
 
 # Requires:
