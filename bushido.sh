@@ -1,8 +1,8 @@
 #!/bin/bash
 # Rearrange screen
 clear
-figlet 'Bushido'
-echo 'By: Sh0gun'
+figlet 'Bushido' | lolcat
+echo 'By: Sh0gun' | lolcat
 
 # Workflow
 domain=$1
