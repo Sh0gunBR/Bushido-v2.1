@@ -16,3 +16,5 @@ be open-source.
   
   # Before install this script:
     Install the required tools to execute without issues.
+  #Usage:
+    ./bushido.sh *Your URL*
